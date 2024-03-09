@@ -1,7 +1,7 @@
 # Library-Management-System
-OVERVIEW :
+> OVERVIEW :
 
-Library Management System is a software, which is used to record the details of books available in the library. We can perform different functions on those books. It is dynamic in nature. Here, we can take input from user regarding the functions to be performed on the books as well as regarding the library and it's details. To build this software we have used java programming language, as for the structure of code we have followed the MVC Architecture. Let me give a short brief idea about MVC Architecture.
+Library Management System is a software, which is used to record the details of books available in the library. You can perform different functions on those books. It is dynamic in nature. Here, you can take input from user regarding the functions to be performed on the books as well as regarding the library and it's details. To build this software we have used java programming language, as for the structure of code MVC Architecture has been followed. Let me give a short brief idea about MVC Architecture.
 
 > Model View Controller (MVC) Architecture -
 
@@ -26,6 +26,9 @@ A. Menu Driven - The software is menu driven. A menu driven program makes it eas
 B. User Friendly - The software is user friendly. It takes input from the user, whether it be regarding the library details or about the functions to be performed on the books as follows
 
 Enter name of library : National Library
+
+> Installation Steps
+
 
 > Use Case:
 
