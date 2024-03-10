@@ -67,6 +67,13 @@ Enter name of library : National Library
 6. setAuthorName(String authorName) : Sets the name of the author.
 7. toString() : Returns a string representation of the book.
 
+# UML diagram :
+
+> System Architecture
+
+![Library Management System](https://github.com/DeepshikaMenon/Library-Management-System/assets/71027452/e28b3d6d-9d57-4e3a-86fc-50cafc8d5d04)
+
+
 # Installation Steps :
 
 > Steps to install JDK -
@@ -79,7 +86,7 @@ Enter name of library : National Library
 6. Click on Java Downloads, there you will get different Java Development Kit (JDK) versions.
 7. Select the latest JDK version, also select the device which you are using.
 8. Click on the appropriate download link, which will download a zip file.
-9. After that, extract the zip file and install JDK to your device.
+9. After installation of zip file, extract it and install JDK to your device.
    
 # Use Case :
 
