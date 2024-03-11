@@ -71,7 +71,7 @@ Enter name of library : National Library
 
 > System Architecture
 
-![Library Management System](https://github.com/DeepshikaMenon/Library-Management-System/assets/71027452/e28b3d6d-9d57-4e3a-86fc-50cafc8d5d04)
+
 
 
 # Installation Steps :
