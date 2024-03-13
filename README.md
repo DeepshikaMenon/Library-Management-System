@@ -67,13 +67,6 @@ Enter name of library : National Library
 6. setAuthorName(String authorName) : Sets the name of the author.
 7. toString() : Returns a string representation of the book.
 
-# UML diagram :
-
-> System Architecture
-
-
-
-
 # Installation Steps :
 
 > Steps to install JDK -
